@@ -21,4 +21,8 @@ pip install gradio
    $ python app_v2.py
    ```
 
-5. 打开对应的网站
+5. 打开对应的网站，就可以进行愉快的对话拉
+
+![](./pictures/QQ截图20230304110600.png)
+
+![](./pictures/企业微信截图_16778992443380.png)
