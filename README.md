@@ -6,7 +6,12 @@
 
 1. 安装python
 
-2. 克隆这个仓库
+2. 克隆这个仓库, 安装对应的包
+
+```bash
+pip install openai
+pip install gradio
+```
 
 3. 去官方网站获取你的 [API key](https://beta.openai.com/account/api-keys)
 
